@@ -30,7 +30,7 @@ Insecure data storage vulnerabilities occur when development teams assume that u
 
 ![image](https://github.com/JOELFRANKO/Android_app_VAPT/assets/81144974/e788481e-c02e-4126-9ea7-005f63b4c509)<br />
 
-2.	Sensitive Data Hardcoding:
+<h2>2.	Sensitive Data Hardcoding:</h2>
 •	Vulnerable Application – Andro Goat.<br />
 •	Vulnerability Description:<br />
 Hard coding sensitive information, such as passwords, server IP addresses, and encryption keys can expose the information to attackers. Anyone who has access to the class files can decompile them and discover the sensitive information.<br />
@@ -52,7 +52,7 @@ Hard coding sensitive information, such as passwords, server IP addresses, and e
 
 ![image](https://github.com/JOELFRANKO/Android_app_VAPT/assets/81144974/ccb9473d-620c-4de3-b0a7-f4dba291d9d8)<br />
 
-3.	Denial of Service Attack:<br />
+<h2>3.	Denial of Service Attack:</h2><br />
 •	Vulnerable Application – Andro Goat.<br />
 •	Vulnerability Description:<br />
 A denial-of-service (DoS) attack is a cyberattack on devices, information systems, or other network resources that prevents legitimate users from accessing expected services and resources. This is usually accomplished by flooding the targeted host or network with traffic until the target can't respond or crashes.<br />
@@ -77,7 +77,7 @@ A denial-of-service (DoS) attack is a cyberattack on devices, information system
 
 ![image](https://github.com/JOELFRANKO/Android_app_VAPT/assets/81144974/9032b424-c334-4dda-b281-888007da2c84)<br />
 
-4.	Insecure Data Storage:<br />
+<h2>4.	Insecure Data Storage:</h2><br />
 •	Vulnerable Application – Andro Goat.<br />
 •	Vulnerability Description:<br />
 Insecure data storage vulnerabilities occur when development teams assume that users or malware will not have access to a mobile device's filesystem and subsequent sensitive information in data-stores on the device.<br />
@@ -96,7 +96,7 @@ Insecure data storage vulnerabilities occur when development teams assume that u
 
 ![image](https://github.com/JOELFRANKO/Android_app_VAPT/assets/81144974/5888b980-6993-486f-bdda-92e85196beea)<br />
 
-5.	Cross Site Scripting (XSS):<br />
+<h2>5.	Cross Site Scripting (XSS):</h2><br />
 •	Vulnerable Application – Andro Goat.<br />
 •	Vulnerability Description:<br />
 Cross-site scripting (XSS) is an attack in which an attacker injects malicious executable scripts into the code of a trusted application or website. Attackers often initiate an XSS attack by sending a malicious link to a user and enticing the user to click it.<br />
