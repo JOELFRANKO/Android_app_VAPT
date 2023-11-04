@@ -7,7 +7,7 @@ I did a Vulnerability Analysis and Penetration testing on android app Andro Goat
 <br />
 <br/>
 <h2>1.	Insecure Backup Storage:</h2>
-•	Vulnerable Application – Andro Goat.<br />
+•	Vulnerable Application – Andro Goat.<br /
 •	Vulnerability Description:<br />
 Insecure data storage vulnerabilities occur when development teams assume that users or malware will not have access to a mobile device's filesystem and subsequent sensitive information in data-stores on the device and let the backup to be open.<br />
 •	Steps to Reproduce:<br />
